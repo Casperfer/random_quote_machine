@@ -1,0 +1,27 @@
+* {
+    margin:0;
+    padding:0;
+  }
+  .quote-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+   
+  }
+  .button{
+    margin:auto
+  }
+.card{
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: antiquewhite;
+}
+
+.button{
+  padding: 10px 20px;
+  background-color: #f1f1f1;
+  border: none;
+  border-radius: 5px;
+}
+
